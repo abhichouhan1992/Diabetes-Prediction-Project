@@ -1,4 +1,4 @@
-# Data-Science-Project-2
+# Data-Science-Project-3
 Prediction who has Diabetes Mellitus over Diabetes dataset using Support Vector Machine.
 # Introduction
 The Diabetes dataset contains 768 samples which determines if patient has diabetes or not. Each sample contains eight features Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age.
